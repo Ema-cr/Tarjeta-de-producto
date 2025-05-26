@@ -1,0 +1,52 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+        background-color: rgb(177, 245, 230);
+        display: block;
+        margin: 0;
+        padding: 200px;
+        text-align: center;
+}
+
+.precio{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    line-height: 1.6;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    font-style: italic;
+    color: aliceblue;
+}
+
+.tarjeta{
+    width: 300px;
+    background-image: linear-gradient(25deg, #2f55a6, #457da5, #4ca6a2, #46d19d);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, alpha)0.1;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.tarjeta:hover{
+    transform: scale(105%);
+    transition: 1.0s;
+    box-shadow: 1px 20px 10px rgba(0,0,0,0.2);
+}
+
+button{
+    transition: background-color 0.5s ease;
+    font-style: italic;
+    color: black;
+    background-color: #46d169;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover{
+    transition: 1.5s;
+    background-color: rgb(60, 255, 0);
+}
