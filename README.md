@@ -2,10 +2,6 @@
 
 Este proyecto es una simple tarjeta de producto hecha con **HTML** y **CSS**, que muestra una presentación visual atractiva de unos auriculares In-Ear marca KZ.
 
-## 📸 Vista previa
-
-![Vista previa de la tarjeta](Media/kz.png)
-
 ## 📄 Descripción
 
 La tarjeta incluye:
